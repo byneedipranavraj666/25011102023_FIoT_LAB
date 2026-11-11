@@ -1,4 +1,0 @@
-".\Objects\STARTUP.obj",
-".\Objects\a5.obj" 
-TO ".\Objects\CAT5" 
-PRINT(".\Listings\CAT5.m51") RAMSIZE(256) 
